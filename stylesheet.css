@@ -1,0 +1,41 @@
+
+#mainborder {
+	background: #a7c7f9;
+	width: 300px;
+	border-style: ridge;
+	border-color: blue;
+	padding: 10px 15px 15px;
+	box-shadow: 10px 10px 5px #e6eaf2;
+}
+.animalname{
+	font-family: "arial";
+}
+.bordertwo{
+	background: #b7d8ff;
+	border-style: solid;
+	border-color: black;
+	padding: 10px 8px 8px;
+}
+.picture{
+	width: 300px;
+	padding-bottom: 10px;
+}
+.shortfact {
+	font-style: italic;
+	font-family: "arial";
+}
+
+ul{
+	font-family: "arial";
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+#notes{
+	font-weight: bold;
+}
+
+p {
+	font-family: "arial";
+}
